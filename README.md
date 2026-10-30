@@ -10,6 +10,9 @@ I like building tools that solve small problems I actually have, and running my 
 **[YT-Summary](https://github.com/Dilrajd13/YT-Summary)**: paste in a YouTube link and get a summary plus a verdict on whether it's worth watching. It uses captions when a video has them and falls back to Whisper transcription with GPU support.
 `Python` `yt-dlp` `faster-whisper` `OpenAI API`
 
+**[DSManager](https://github.com/Dilrajd13/DSManager)**: a terminal for creating, editing and visualizing data structures, with Linux-inspired commands. It supports linked lists, stacks, queues, heaps and binary trees, and redraws the structure after every change.
+`C++` `Data Structures`
+
 **[Homelab](https://github.com/Dilrajd13/homelab-project)**: my hands-on DevOps practice, running on a Proxmox server with Pi-hole, Docker and remote access over Tailscale.
 `Proxmox` `Docker` `Linux` `Tailscale`
 
