@@ -13,7 +13,7 @@ I like building tools that solve small problems I actually have, and running my 
 **[DSManager](https://github.com/Dilrajd13/DSManager)**: a terminal for creating, editing and visualizing data structures, with Linux-inspired commands. It supports linked lists, stacks, queues, heaps and binary trees, and redraws the structure after every change.
 `C++` `Data Structures`
 
-**[Homelab](https://github.com/Dilrajd13/homelab-project)**: my hands-on DevOps practice, running on a Proxmox server with Pi-hole, Docker and remote access over Tailscale.
+**[Homelab](https://github.com/Dilrajd13/homelab-project)**: Personal Homelab running on a Proxmox server with Pi-hole, game server, nextcloud personal cloud storage,Docker and remote access over Tailscale.
 `Proxmox` `Docker` `Linux` `Tailscale`
 
 **[PhotoDaterScript](https://github.com/Dilrajd13/PhotoDaterScript)**: renames phone pictures to their original creation date, using EXIF data when it's available.
@@ -21,4 +21,4 @@ I like building tools that solve small problems I actually have, and running my 
 
 ## Tools I use
 
-Python, JavaScript, Java, C++, C#, HTML, Docker, Linux, Proxmox, Git
+Python, JavaScript, Java, C++, C#, Linux, Proxmox,
