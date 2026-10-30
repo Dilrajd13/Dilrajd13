@@ -21,4 +21,4 @@ I like building tools that solve small problems I actually have, and running my 
 
 ## Tools I use
 
-Python, JavaScript, Java, C++, C#, Linux, Proxmox,
+Python, C++, C#, Linux,JavaScript
